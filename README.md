@@ -1,11 +1,11 @@
 # Hi there, I'm Rahul Saha! 👋
 
-I'm a passionate developer from [Your Location, e.g., Delhi, India]. Currently exploring software development, open-source contributions, and building cool projects. Let's connect and collaborate!
+I'm a passionate developer from [Kolkata, India]. Currently exploring software development, open-source contributions, and building cool projects. Let's connect and collaborate!
 
 ## 🚀 About Me
-- 🎓 **Education**: [Add your education details here, e.g., B.Tech in Computer Science from XYZ University]
+- 🎓 **Education**: [B.Tech in Electronics and Communication Engineering from MAKAUT University]
 - 💼 **Experience**: [Add your work experience, e.g., Software Engineer at ABC Corp]
-- 🌍 **Location**: [Your city/country]
+- 🌍 **Location**: [Kolkata/India]
 - 📧 **Email**: rahulsaha6917@example.com
 - 🔗 **Portfolio**: [Link to your website or LinkedIn]
 - 🐦 **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
