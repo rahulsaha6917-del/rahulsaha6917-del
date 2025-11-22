@@ -4,9 +4,9 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 
 ## 🚀 About Me
 - 🎓 **Education**: [B.Tech in Electronics and Communication Engineering from MAKAUT University]
-- 💼 **Experience**: [Add your work experience, e.g., Software Engineer at ABC Corp]
+- 💼 **Experience**: Kodnest Technologies Private Limited
 - 🌍 **Location**: [Kolkata/India]
-- 📧 **Email**: rahulsaha6917@example.com
+- 📧 **Email**: rahulsaha6917@gmail.com
 - 🔗 **Portfolio**: [Link to your website or LinkedIn]
 - 🐦 **Twitter/X**:https://x.com/RahulSa37056002
 
