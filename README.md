@@ -8,7 +8,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - 🌍 **Location**: [Kolkata/India]
 - 📧 **Email**: rahulsaha6917@example.com
 - 🔗 **Portfolio**: [Link to your website or LinkedIn]
-- 🐦 **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 **Twitter/X**:https://x.com/RahulSa37056002
 
 ## 🛠 Tech Stack
 - **Languages**: Python, JavaScript, Java
