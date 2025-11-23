@@ -7,7 +7,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - 💼 **Experience**: Kodnest Technologies Private Limited
 - 🌍 **Location**: [Kolkata/India]
 - 📧 **Email**: rahulsaha6917@gmail.com
-- 🔗 **Portfolio**: [Link to your website or LinkedIn]
+- 🔗 **Portfolio**: [http://127.0.0.1:5500/index.html]
 - 🐦 **Twitter/X**:https://x.com/RahulSa37056002
 
 ## 🛠 Tech Stack
