@@ -21,7 +21,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 ## 📈 Git Status
 <img width="577" height="175" alt="image" src="https://github.com/user-attachments/assets/af541813-15f0-4e3c-a4c3-2f615eea902d" />
 
-## 🛠 Most Language Used
+## 🛠 Most Used Language 
 <img width="374" height="207" alt="image" src="https://github.com/user-attachments/assets/86147f6f-07ef-44ff-80de-1db1b8210786" />
 
 
