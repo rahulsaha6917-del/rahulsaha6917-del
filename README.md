@@ -1,13 +1,15 @@
-# Hi there, I'm Rahul Saha! 👋
+# Hi Everyone, I'm Rahul Saha! 👋
 
 I'm a passionate developer from [Kolkata, India]. Currently exploring software development, open-source contributions, and building cool projects. Let's connect and collaborate!
+
+
 
 ## 🚀 About Me
 - 🎓 **Education**: [B.Tech in Electronics and Communication Engineering from MAKAUT University]
 - 💼 **Experience**: Kodnest Technologies Private Limited
 - 🌍 **Location**: [Kolkata/India]
 - 📧 **Email**: rahulsaha6917@gmail.com
-- 🔗 **Portfolio**: []
+- 🔗 **Portfolio**: [Comming Soon]
 - 🐦 **Twitter/X**:https://x.com/RahulSa37056002
 
 ## 🛠 Tech Stack
@@ -16,6 +18,11 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - **Tools**: Git, Docker, AWS
 - **Databases**: MySQL, MongoDB
 
+## 📈 Git Status
+<img width="577" height="175" alt="image" src="https://github.com/user-attachments/assets/af541813-15f0-4e3c-a4c3-2f615eea902d" />
+
+## 🛠 Most Language Used
+<img width="374" height="207" alt="image" src="https://github.com/user-attachments/assets/86147f6f-07ef-44ff-80de-1db1b8210786" />
 
 
 
@@ -23,7 +30,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsaha6917-del&theme=react-dark)
 
-*(Note: These badges will auto-populate once you have more activity. You can add them to your README.md file in the root of your repository.)*
+
 
 ## 📁 My Repositories
 Here's a glimpse of my projects:
@@ -33,7 +40,7 @@ Here's a glimpse of my projects:
 | [rahulsaha6917-del](https://github.com/rahulsaha6917-del/rahulsaha6917-del) | My details and Education | - | 0 | 0 |
 https://github.com/rahulsaha6917-del/GET | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
 
-*(Add more repositories as you create them!)*
+
 
 ## 💬 Let's Talk
 - Got a question? Open an issue!
@@ -46,4 +53,4 @@ https://github.com/rahulsaha6917-del/GET | Gym Management Application - Taskform
 
 ---
 
-> "The best way to predict the future is to invent it." – Alan Kay
+
