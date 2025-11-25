@@ -16,10 +16,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - **Tools**: Git, Docker, AWS
 - **Databases**: MySQL, MongoDB
 
-Feel free to update these based on your skills!
 
-## 📊 GitHub Stats
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsaha6917-del&show_icons=true&theme=radical)
 
 
 
