@@ -47,6 +47,10 @@ Here's a glimpse of my projects:
 https://github.com/rahulsaha6917-del/GET | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
 
 
+<img width="890" height="247" alt="image" src="https://github.com/user-attachments/assets/081890b9-dcb8-447e-a763-f0d36e90bd7c" />
+
+
+
 
 ## 💬 Let's Talk
 - Got a question? Open an issue!
