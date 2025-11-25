@@ -21,6 +21,9 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - **Tools**: Git, Docker, AWS
 - **Databases**: MySQL, MongoDB
 
+- <img width="583" height="464" alt="image" src="https://github.com/user-attachments/assets/226cf9cc-7cbe-4c2c-89e0-d4c9c1644799" />
+
+
 ## 📈 Git Status
 <img width="577" height="175" alt="image" src="https://github.com/user-attachments/assets/af541813-15f0-4e3c-a4c3-2f615eea902d" />
 
