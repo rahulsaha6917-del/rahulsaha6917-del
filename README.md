@@ -4,6 +4,8 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 
 
 
+
+
 ## 🚀 About Me
 - 🎓 **Education**: [B.Tech in Electronics and Communication Engineering from MAKAUT University]
 - 💼 **Experience**: Kodnest Technologies Private Limited
@@ -11,6 +13,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - 📧 **Email**: rahulsaha6917@gmail.com
 - 🔗 **Portfolio**: [Comming Soon]
 - 🐦 **Twitter/X**:https://x.com/RahulSa37056002
+- 🔗 **LinkedIn**:https://www.linkedin.com/in/rahul-saha-592593238/
 
 ## 🛠 Tech Stack
 - **Languages**: Python, JavaScript, Java
