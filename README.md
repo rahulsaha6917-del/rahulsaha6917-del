@@ -35,7 +35,7 @@ Here's a glimpse of my projects:
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
 | [rahulsaha6917-del](https://github.com/rahulsaha6917-del/rahulsaha6917-del) | My details and Education | - | 0 | 0 |
-https://github.com/rahulsaha6917-del/GET | GymMan - Taskform, Tasklist & ProgressTracker Component | ReactJs
+https://github.com/rahulsaha6917-del/GET | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
 
 *(Add more repositories as you create them!)*
 
