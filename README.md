@@ -3,7 +3,7 @@
 I'm a passionate developer from [Kolkata, India]. Currently exploring software development, open-source contributions, and building cool projects. Let's connect and collaborate!
 
 
-
+ <img src="https://camo.githubusercontent.com/6425536d03689f0e8afffd9015bb3168cce6064ae1be25f30a2b342a05167848/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3232266475726174696f6e3d333030302670617573653d313030302663656e7465723d747275652677696474683d343335266c696e65733d46756c6c2b537461636b2b446576656c6f7065723b52656163742b2537432b4e6f64652e6a732b2537432b4d6f6e676f44423b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;center=true&amp;width=435&amp;lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;" style="max-width: 100%;">
 
 
 ## 🚀 About Me
