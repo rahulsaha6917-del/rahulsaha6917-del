@@ -21,7 +21,6 @@ Feel free to update these based on your skills!
 ## 📊 GitHub Stats
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsaha6917-del&show_icons=true&theme=radical)
 
-![Top Languages,](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsaha6917-del&layout=compact&theme=radical) 
 
 
 ## 📈 Activity Graph
