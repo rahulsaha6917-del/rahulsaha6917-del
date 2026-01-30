@@ -44,9 +44,9 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 ## 📁 My Repositories
 Here's a glimpse of my projects:
 
-| Repository | Description | Language | Stars | Forks |
-|------------|-------------|----------|-------|-------|
-| [rahulsaha6917-del](https://github.com/rahulsaha6917-del/rahulsaha6917-del) | My details and Education | - | 0 | 0 |
+| Repository | Description | Language | 
+|------------|-------------|----------|
+| https://github.com/rahulsaha6917-del/API_movie | Movie API - API Based Application | Java-Script |
 https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
 
 
