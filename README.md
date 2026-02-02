@@ -1,4 +1,17 @@
-# Hi Everyone, I'm Rahul Saha! 👋
+<!-- 🌈 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rahul%20Saha&fontSize=45&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55" />
+</p>
+
+<!-- 👋 Introduction -->
+<h2 align="center">Hi there 👋 I'm Rahul Saha</h2>
+<h4 align="center">🚀 Turning ideas into scalable web applications</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulsaha6917-del&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rahulsaha6917-del?label=Followers&style=for-the-badge&color=success" />
+  <img src="https://img.shields.io/github/stars/rahulsaha6917-del?label=Stars&style=for-the-badge&color=yellow" />
+</p>
 
 I'm a passionate developer from [Kolkata, India]. Currently exploring software development, open-source contributions, and building cool projects. Let's connect and collaborate!
 
@@ -18,23 +31,79 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 - 🐦 **Twitter/X**:https://x.com/RahulSa37056002
 - 🔗 **LinkedIn**:https://www.linkedin.com/in/rahul-saha-592593238/
 
-## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, AWS
-- **Databases**: MySQL, MongoDB
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c" />
+</p>
 
-- <img width="583" height="464" alt="image" src="https://github.com/user-attachments/assets/226cf9cc-7cbe-4c2c-89e0-d4c9c1644799" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,express" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-saha-592593238">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rahulsaha6917@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/RahulSa37056002">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 
 ## 📈 Git Status
-<img width="577" height="175" alt="image" src="https://github.com/user-attachments/assets/af541813-15f0-4e3c-a4c3-2f615eea902d" />
-
-## 🛠 Most Used Language 
-<img width="374" height="207" alt="image" src="https://github.com/user-attachments/assets/86147f6f-07ef-44ff-80de-1db1b8210786" />
-
+<p align="center">
+  <img src="https://github-stats.vercel.app/api?username=rahulsaha6917-del&show_icons=true&theme=merko&count_private=true" />
+</p>
 
 
+## 📸 Project Screenshots & Demos
+
+### 🚀 React Dashboard App
+<p align="center">
+  <<img width="729" height="713" alt="image" src="https://github.com/user-attachments/assets/b7ea6697-34a8-4ff6-b146-44b3e3872f81" />
+>
+</p>
+
+🔹 Responsive UI  
+🔹 Reusable Components  
+🔹 Clean Design  
+
+---
+
+### 🌐 Portfolio Website (HTML • CSS • JavaScript)
+<p align="center">
+  <img src="assets/portfolio.gif" width="80%" alt="Portfolio Website Demo"/>
+</p>
+
+✨ Smooth animations  
+✨ Mobile-friendly  
+✨ Modern layout  
+
+---
+
+ 
+
+
+
+## ✍️ Quote I Believe In
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsaha6917-del&theme=react-dark)
@@ -57,9 +126,20 @@ https://github.com/rahulsaha6917-del/React-Project | Gym Management Application 
 
 
 
-## 💬 Let's Talk
-- Got a question? Open an issue!
-- Feedback? Hit me up on [Twitter/X](https://twitter.com/yourhandle)
+## 🚀 What’s Next?
+
+✅ Build real-world SaaS projects  
+✅ Contribute to open source  
+✅ Crack high-impact software roles  
+✅ Learn Cloud & System Design deeply  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
 
 ---
 
