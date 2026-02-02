@@ -48,6 +48,8 @@ Here's a glimpse of my projects:
 |------------|-------------|----------|
 | https://github.com/rahulsaha6917-del/API_movie | Movie API - API Based Application | Java-Script |
 https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
+| https://github.com/rahulsaha6917-del/My-E-Commerce-Website | My-E-Commerce-Website | Java-Script, CSS, React,HTML |
+| https://github.com/rahulsaha6917-del/My-Personal-Food-Website | My-Personal-Food-Website | Java-Script, CSS, HTML |
 
 
 <img width="890" height="247" alt="image" src="https://github.com/user-attachments/assets/081890b9-dcb8-447e-a763-f0d36e90bd7c" />
