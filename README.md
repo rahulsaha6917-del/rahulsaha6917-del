@@ -74,8 +74,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 
 ### 🚀 React Dashboard App
 <p align="center">
-  <<img width="729" height="713" alt="image" src="https://github.com/user-attachments/assets/b7ea6697-34a8-4ff6-b146-44b3e3872f81" />
->
+  <img width="729" height="713" alt="image" src="https://github.com/user-attachments/assets/b7ea6697-34a8-4ff6-b146-44b3e3872f81" />
 </p>
 
 🔹 Responsive UI  
@@ -86,7 +85,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 
 ### 🌐 Portfolio Website (HTML • CSS • JavaScript)
 <p align="center">
-  <img src="assets/portfolio.gif" width="80%" alt="Portfolio Website Demo"/>
+  
 </p>
 
 ✨ Smooth animations  
