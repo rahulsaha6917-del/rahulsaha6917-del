@@ -88,7 +88,7 @@ Here's a glimpse of my projects:
 
 | Repository | Description | Language | 
 |------------|-------------|----------|
-| https://github.com/rahulsaha6917-del/API_movie | Movie API - API Based Application | Java-Script |
+| Weather-Forecasting-Searching-Application-  |Weather-Forecasting-Searching-Application-  | API Based Application |
 https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
 | https://github.com/rahulsaha6917-del/My-Full-Stack-E-commerce-Website | My-E-Commerce-Website | Java-Script, CSS, React,HTML,Spring Tool(Java)|
 
