@@ -69,31 +69,6 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahulsaha6917-del&show_icons=true&theme=tokyonight"> 
 
 
-## 📸 Project Screenshots & Demos
-
-### 🚀 React Dashboard App
-<p align="center">
-  <img width="729" height="713" alt="image" src="https://github.com/user-attachments/assets/b7ea6697-34a8-4ff6-b146-44b3e3872f81" />
-</p>
-
-🔹 Responsive UI  
-🔹 Reusable Components  
-🔹 Clean Design  
-
----
-
-### 🌐 Portfolio Website (HTML • CSS • JavaScript)
-<p align="center">
-  
-</p>
-
-✨ Smooth animations  
-✨ Mobile-friendly  
-✨ Modern layout  
-
----
-
- 
 
 
 
@@ -115,8 +90,8 @@ Here's a glimpse of my projects:
 |------------|-------------|----------|
 | https://github.com/rahulsaha6917-del/API_movie | Movie API - API Based Application | Java-Script |
 https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
-| https://github.com/rahulsaha6917-del/My-Sales-Full-Stack-Project-Front-End-only-- | My-E-Commerce-Website(Front-End Part) | Java-Script, CSS, React,HTML |
-|https://github.com/rahulsaha6917-del/My-Sales-Full-Stack-Project-Back-End-only- | My-E-Commerce-Website(Back-End Part) | Spring Tool(Java) |
+| https://github.com/rahulsaha6917-del/My-Full-Stack-E-commerce-Website | My-E-Commerce-Website | Java-Script, CSS, React,HTML,Spring Tool(Java)|
+
 
 
 <img width="890" height="247" alt="image" src="https://github.com/user-attachments/assets/081890b9-dcb8-447e-a763-f0d36e90bd7c" />
