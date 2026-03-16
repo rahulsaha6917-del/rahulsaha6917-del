@@ -88,9 +88,9 @@ Here's a glimpse of my projects:
 
 | Repository | Description | Language | 
 |------------|-------------|----------|
-| Weather-Forecasting-Searching-Application-  |Weather-Forecasting-Searching-Application-  | API Based Application |
-https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
-| https://github.com/rahulsaha6917-del/My-Full-Stack-E-commerce-Website | My-E-Commerce-Website | Java-Script, CSS, React,HTML,Spring Tool(Java)|
+| https://github.com/rahulsaha6917-del/Weather-Forecasting-Searching-Application-  |Weather-Forecasting-Searching-Application-  | API Based Application |
+https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs Based Application
+| https://github.com/rahulsaha6917-del/My-Full-Stack-E-commerce-Website | My E-Commerce-Full-Stack Website | Java-Script, CSS, HTML, Spring Tool(Java)|
 
 
 
@@ -101,10 +101,10 @@ https://github.com/rahulsaha6917-del/React-Project | Gym Management Application 
 
 ## 🚀 What’s Next?
 
-✅ Build real-world SaaS projects  
+✅ Build real-world AI projects  
 ✅ Contribute to open source  
 ✅ Crack high-impact software roles  
-✅ Learn Cloud & System Design deeply  
+✅ Learn Docks Design deeply  
 
 ---
 
