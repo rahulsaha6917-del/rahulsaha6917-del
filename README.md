@@ -86,10 +86,9 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 ## 📁 My Repositories
 Here's a glimpse of my projects:
 
-| Repository | Description | Language | 
+| Live Application | Description | Language | 
 |------------|-------------|----------|
 | https://rahulsaha6917-del.github.io/Weather-Forecasting-Searching-Application-/ |Weather-Forecasting-Searching-Application-  | API Based Application |
-https://github.com/rahulsaha6917-del/React-Project | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs Based Application
 |  https://rahulsaha6917-del.github.io/My-full-Stack-Code-/ | My E-Commerce-Full-Stack Website | Java-Script, CSS, HTML, Spring Tool(Java)|
 
 
