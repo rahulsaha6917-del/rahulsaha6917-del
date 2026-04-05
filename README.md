@@ -64,9 +64,6 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 </p>
 
 
-## 📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahulsaha6917-del&show_icons=true&theme=tokyonight"> 
 
 
 
