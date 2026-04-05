@@ -9,8 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulsaha6917-del&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rahulsaha6917-del?label=Followers&style=for-the-badge&color=success" />
-  <img src="https://img.shields.io/github/stars/rahulsaha6917-del?label=Stars&style=for-the-badge&color=yellow" />
+  
 </p>
 
 I'm a passionate developer from [Kolkata, India]. Currently exploring software development, open-source contributions, and building cool projects. Let's connect and collaborate!
