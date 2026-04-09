@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=rahulsaha6917-del&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
----
+
 
 ## 💫 About Me
 
@@ -23,14 +23,14 @@
   ✨ <i>"Turning ideas into reality through code"</i>
 </p>
 
----
+
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Spring+Boot;Always+Learning+New+Things" />
 </p>
 
----
+
 
 ## 📄 Resume
 
@@ -40,7 +40,7 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me (Details)
 
@@ -49,7 +49,7 @@
 - 📍 **Location**: Kolkata, India  
 - 📧 **Email**: rahulsaha6917@gmail.com  
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -69,7 +69,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -93,14 +93,107 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
 </p>
 
+
+
+
+
+
+## 🚀 Featured Projects
+
+ <p align="center">
+  Showcasing my practical experience in building scalable, user-friendly, and real-world applications.
+</p>
+
+
+
+### 🛒 E-Commerce Full Stack Application  
+A complete full-stack web application designed to simulate a real-world online shopping platform with robust backend integration and dynamic frontend experience.
+
+- 🧾 Implemented **product listing, search, and category filtering**
+- 🛒 Developed **shopping cart and order management system**
+- 🔐 Built secure backend using **Spring Boot with REST APIs**
+- 🗄 Integrated **MySQL database** for persistent data storage
+- ⚡ Ensured responsive UI for smooth user experience  
+
+🛠 **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript  
+
+<p align="right">
+  👉 <a href="https://rahulsaha6917-del.github.io/My-full-Stack-Code-/"><b>Live Demo</b></a>
+</p>
+
 ---
 
-## 📊 GitHub Stats
+### 🌐 Personal Portfolio Website  
+A modern and responsive personal portfolio website to showcase my skills, projects, and professional journey.
+
+- 🎨 Designed a **clean and modern UI/UX layout**
+- 📱 Fully **responsive across mobile, tablet, and desktop**
+- ⚡ Added **smooth scrolling and interactive animations**
+- 📂 Organized sections for **projects, skills, and contact**
+- 🌐 Deployed using **GitHub Pages**  
+
+🛠 **Tech Stack:** HTML, CSS, JavaScript  
+
+<p align="right">
+  👉 <a href="https://rahulsaha6917-del.github.io/My-Portfolio/"><b>Live Demo</b></a>
+</p>
+
+---
+
+### 🌦 Weather Forecast Application  
+A dynamic weather application that provides real-time weather data based on user input using external APIs.
+
+- 🌍 Fetches **live weather data using API integration**
+- 🔎 Allows users to **search weather by city name**
+- 🌡 Displays **temperature, humidity, and conditions**
+- ⚡ Handles **API responses and error cases efficiently**
+- 🎯 Clean UI for better readability and usability  
+
+🛠 **Tech Stack:** JavaScript, REST API, HTML, CSS  
+
+<p align="right">
+  👉 <a href="https://rahulsaha6917-del.github.io/Weather-Forecasting-Searching-Application-/"><b>Live Demo</b></a>
+</p>
+
+---
+
+### 🏙 Smart City Complaint Management System  
+A web-based platform that allows citizens to register and track complaints related to urban issues.
+
+- 📝 Built **complaint submission and tracking system**
+- 🏙 Designed to manage **city-level issue reporting**
+- 📊 Structured data flow for better **organization & usability**
+- 👨‍💻 Focused on **simple and user-friendly interface**
+- 🔄 Can be extended to include **admin dashboard & status tracking**  
+
+🛠 **Tech Stack:** HTML, CSS, JavaScript  
+
+<p align="right">
+  👉 <a href="https://rahulsaha6917-del.github.io/Smart-City-Complaint-Register/"><b>Live Demo</b></a>
+</p>
+
+
+
+## 🌟 More Projects Coming Soon...
+<p align="center">🚀 Continuously building and improving my development skills!</p>
+
+
+
+## 📊 Advanced Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulsaha6917-del&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsaha6917-del&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsaha6917-del&theme=tokyonight" />
 </p>
+
+----------
+## Top Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulsaha6917-del&theme=tokyonight" />
+</p>
+
+
+
+
 
 ---
 
@@ -111,18 +204,6 @@
 </p>
 
 ---
-
-## 📁 Featured Projects
-
-| 🚀 Project | 🔗 Live Link | 🛠 Tech |
-|----------|------------|--------|
-| 🛒 E-Commerce App | https://rahulsaha6917-del.github.io/My-full-Stack-Code-/ | Full Stack |
-| 🌐 Portfolio | https://rahulsaha6917-del.github.io/My-Portfolio/ | HTML, CSS, JS |
-| 🌦 Weather App | https://rahulsaha6917-del.github.io/Weather-Forecasting-Searching-Application-/ | API |
-| 🏙 Smart City App | https://rahulsaha6917-del.github.io/Smart-City-Complaint-Register/ | Frontend |
-
----
-
 ## ✍️ Quote I Believe In
 
 <p align="center">
