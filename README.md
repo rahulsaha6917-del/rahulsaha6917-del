@@ -103,7 +103,7 @@
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=github,docker" />
 </p>
 
 
