@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://rahulsaha6917-del.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
 
