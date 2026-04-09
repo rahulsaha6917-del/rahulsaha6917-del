@@ -91,7 +91,9 @@
 ### ⚙️ Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,postman" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
+
 
 ### 🗄️ Database  
 <p align="center">
