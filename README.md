@@ -25,11 +25,13 @@
 
 
 
-<!-- Typing Animation -->
+<!-- Gradient Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Spring+Boot;Always+Learning+New+Things" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=🚀+Full+Stack+Developer;🌐+HTML+%7C+🎨+CSS+%7C+⚡+JavaScript;⚛️+React.js+%7C+🟢+Node.js+%7C+🍃+MongoDB;☕+Java+%7C+🌱+Spring+Boot+%7C+🗄️+MySQL;🔗+REST+API+%7C+📮+Postman+%7C+☁️+Render;🐳+Docker+%7C+🔧+Git+%7C+🐙+GitHub;🔥+Always+Learning+New+Things&colors=FF5733,FF8D1A,FFC300,33FF57,33C1FF,8D33FF,FF33A8" 
+    alt="Typing Animation" 
+  />
 </p>
-
 
 
 ## 📄 Resume
