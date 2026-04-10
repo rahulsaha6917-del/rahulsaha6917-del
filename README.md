@@ -37,8 +37,14 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://kod-production-profile-service.s3.ap-south-1.amazonaws.com/183d9f6e-07f8-404b-9558-67fdef1537fb/resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  <!-- View Button -->
+  <a href="https://kod-production-profile-service.s3.ap-south-1.amazonaws.com/183d9f6e-07f8-404b-9558-67fdef1537fb/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/👀%20View%20Resume-Open%20Now-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  
+  <!-- Download Button -->
+  <a href="https://kod-production-profile-service.s3.ap-south-1.amazonaws.com/183d9f6e-07f8-404b-9558-67fdef1537fb/resume.pdf" download>
+    <img src="https://img.shields.io/badge/📥%20Download%20Resume-PDF-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
