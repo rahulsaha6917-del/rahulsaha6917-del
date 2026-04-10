@@ -52,11 +52,14 @@
 
 ## 🚀 About Me (Details)
 
-- 🎓 **B.Tech in Electronics & Communication Engineering (MAKAUT)**
-- 💼 **Experience**: Kodnest Technologies Pvt. Ltd.  
+- 🎓 **B.Tech in Electronics & Communication Engineering** (MAKAUT)  
+- 💼 **Experience**: Intern at **Kodnest Technologies Pvt. Ltd.**  
+- 💻 **Role**: Full Stack Developer (Java | Spring Boot | React | Node.js)  
 - 📍 **Location**: Kolkata, India  
-- 📧 **Email**: rahulsaha6917@gmail.com  
-
+- 📧 **Email**: [rahulsaha6917@gmail.com](mailto:rahulsaha6917@gmail.com)  
+- 🌐 **Portfolio**: [View My Work](https://rahulsaha6917-del.github.io/My-Portfolio/)  
+- 🚀 **Focus**: Building scalable backend systems & modern web apps  
+- 🔥 **Strengths**: Problem Solving • API Development • Debugging • Clean Code  
 
 
 ## 🌐 Connect With Me
